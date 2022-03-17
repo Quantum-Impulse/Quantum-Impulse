@@ -11,9 +11,9 @@
 📸 Here are some cool photos (:
   <table>
   
-  <img src="https://github.com/Quantum-Impulse/Quantum-Impulse/Assests/landscape.jpg" />
-  <img src="https://github.com/Quantum-Impulse/Quantum-Impulse/Assests/PC1.jpg" />
-  <img src="https://github.com/Quantum-Impulse/Quantum-Impulse/Assests/PC2.jpg" />
+  <img src="https://github.com/Quantum-Impulse/Quantum-Impulse/blob/main/Assets/landscape.jpg" />
+  <img src="https://github.com/Quantum-Impulse/Quantum-Impulse/blob/main/Assets/PC1.jpg" />
+  <img src="https://github.com/Quantum-Impulse/Quantum-Impulse/blob/main/Assets/PC2.jpg" />
 
 <!--
 **Quantum-Impulse/Quantum-Impulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
