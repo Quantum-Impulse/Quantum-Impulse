@@ -11,7 +11,7 @@
 <br>
 <table>
 
-<img style="height:100px; width:100px;"src="https://github.com/Quantum-Impulse/Quantum-Impulse/blob/main/Assets/landscape.jpg" />
+<img style="height:100px;width:100px;" src="https://github.com/Quantum-Impulse/Quantum-Impulse/blob/main/Assets/landscape.jpg" />
 
 <!-- <img src="https://github.com/Quantum-Impulse/Quantum-Impulse/blob/main/Assets/PC1.jpg" />
 
