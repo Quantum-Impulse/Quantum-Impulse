@@ -30,7 +30,7 @@
 <h2>:calling: Feel free to reach out to me at these places!</h2>
 <br>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joaquin-cisneros-271256225/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/enrique-rivera-jr/) 
 
 ![](https://www.linkedin.com/in/enrique-rivera-jr/)
 
