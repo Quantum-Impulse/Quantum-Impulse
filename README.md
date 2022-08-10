@@ -11,23 +11,26 @@
 <br>
 <table>
 
-<!-- <img style="height:100px;width:100px;" src="https://github.com/Quantum-Impulse/Quantum-Impulse/blob/main/Assets/landscape.jpg" /> -->
+<h2>:rocket: My Github Stats</h2>
+<br>
 
-<!-- <img src="https://github.com/Quantum-Impulse/Quantum-Impulse/blob/main/Assets/PC1.jpg" />
+<p align = "center">
+  <img align="left" height="150" src = "https://github-readme-stats.vercel.app/api?username=Quantum-Impulse&show_icons=true&count_private=true&theme=github_dark&border=FAFAFA">
+  <img align="left" height="150" src = "https://github-readme-streak-stats.herokuapp.com/?user=Quantum-Impulse&show_icons=true&count_private=true&theme=github-dark-blue&border=FFFFFF&stroke=3F73DD&sideNums=FFFFFF">
+</p>
 
-<img src="https://github.com/Quantum-Impulse/Quantum-Impulse/blob/main/Assets/PC2.jpg" /> -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<!--
-**Quantum-Impulse/Quantum-Impulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>:calling: Feel free to reach out to me at these places!</h2>
+<br>
 
-Here are some ideas to get you started:
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joaquin-cisneros-271256225/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://www.linkedin.com/in/enrique-rivera-jr/)
+
