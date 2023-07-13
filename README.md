@@ -6,7 +6,6 @@
 🏆 <strong>College of Natural Sciences Scholarship</strong> and <strong> Texas Excellence Scholarship</strong> recipient!<br>
 ✨ I'm part of the <strong>Freshman Research Initiative(FRI)</strong> learning about Quantum Computing <br>
 ⚡ In my free time, I love to travel ♔, build computers 🤘🏼, learn new stuff (Japanse, Guitar, etc )<br>
-📸 Check out my brand -> https://goma-tech.com/
 </td> 
 <br>
 <table>
