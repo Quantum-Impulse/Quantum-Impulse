@@ -11,12 +11,6 @@
 <table>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <h2>:calling: Feel free to reach out to me at these places!</h2>
 <br>
