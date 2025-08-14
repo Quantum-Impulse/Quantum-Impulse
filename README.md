@@ -2,7 +2,7 @@
 
 <table align="center">
 <td>  
-📝 I'm a 4th year undergrad at The University of Texas at Austin as a Computational Physics major but intend to be a Software Engineer(SDE) <br>
+📝 I'm a 4th year undergrad at The University of Texas at Austin as a Computational Physics and Math major but intend to be a Software Engineer(SDE) <br>
 🏆 <strong>College of Natural Sciences Scholarship</strong> and <strong> Texas Excellence Scholarship</strong> recipient!<br>
 ✨ I'm part of the <strong>Freshman Research Initiative(FRI)</strong> learning about Quantum Computing <br>
 ⚡ In my free time, I love to travel ♔, build computers 🤘🏼, learn new stuff (Videography, Guitar, etc )<br>
